@@ -1,9 +1,9 @@
 navbar_entries:
   - title: About
-    url: About.md
+    url: About
 
-  - title: blog
-    url: Blog
+#  - title: blog
+#    url: Blog
 
   - title: Home
     url: https://gregknackstedt.com
