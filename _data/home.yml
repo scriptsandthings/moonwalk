@@ -11,30 +11,30 @@ navbar_entries:
 project_entries:
   - title: Jamf Things
     url: https://gregknackstedt.com/Jamf_things
-    desc: This is an example project, configured in _data/home.yml
+    desc: A collection of macOS and Jamf related support information and scripts 
     highlight: WIP
 
   - title: Jamf JSON Schemas
     url: https://gregknackstedt.com/scriptsandthings_Jamf_JSON_Schemas
-    desc: You can control visibility from _config.yml file
+    desc: JSON Schemas for Jamf Pro - For configuration of application settings from within the Jamf web GUI
     highlight: WIP
 
   - title: macOS Things
     url: https://gregknackstedt.com/macOS_things
-    desc: Projects are shown in card layout
+    desc: "When you can't find what you're looking for.... just do it yourself."
 
   - title: macOS smbx Things
     url: https://gregknackstedt.com/macOS_smbx_things
-    desc: This project uses highlight markup, configured in _data/home.yml
+    desc: Apple macOS smbx information 
 
   - title: Windows Things
     url: https://gregknackstedt.com/Windows_things
-    desc: Moonwalk also has horizontal list (used in header and footer)
+    desc: Scripts for basic issues intended to be accessible to end users via Software Center
 
 
 
 footer_entries:
-  - title: Scripts and Things homepage
+  - title: Scripts and Things Homepage
     url: https://gregknackstedt.com
 
   - title: GitHub
@@ -43,7 +43,11 @@ footer_entries:
   - title: LinkedIn
     url: https://www.linkedin.com/in/gregknac/
     
-misc_entries:
+  - title: "© Greg Knackstedt. - 2022"
+    url: false
+    
+# misc_entries:
+# Shows on homepage under 'Details" heading
 #  - title: this is an example vertical list
 #    url: false
 #
@@ -57,15 +61,15 @@ misc_entries:
 #    post_list: true
 #    url: false
 #
-  - title: Scripts and Things
-    url: false
-    entries:
-      - title: on Github
-        url: https://github.com/scriptsandthings
-        
-      - title: Homepage
-        url: https://www.gregknackstedt.com
-
+#  - title: Scripts and Things
+#    url: false
+#    entries:
+#      - title: on Github
+#        url: https://github.com/scriptsandthings
+#        
+#      - title: Homepage
+#        url: https://www.gregknackstedt.com
+#
 #      - title: this list is scalable and can be nested
 #        url: false
 #        entries:
